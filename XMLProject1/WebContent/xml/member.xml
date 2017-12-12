@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE member SYSTEM "member.dtd"> <!-- dtd파일 읽어올때 -->
+<member>
+	<list no="a1"> <!-- id는 반드시 알파벳으로 시작 -->
+		<id>aaa</id>
+		<name>aaa</name>
+		<home>111</home>
+		<from />
+	</list>
+</member>
